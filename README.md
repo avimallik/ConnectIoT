@@ -65,7 +65,7 @@ The focus is on having a portable ICU, with which the medical help can be reache
 ![image](https://user-images.githubusercontent.com/52236719/195002811-1cc831d2-71eb-4b9a-9d66-dc68e19050b8.png)
 
 
-# HealthConnect Portal Interface (Admin):
+# Connect IoT Portal Interface (Admin):
 
 ## Dashboard View
 
