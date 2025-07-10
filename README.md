@@ -1,8 +1,4 @@
-# HealthConnect 
-
-### Contribute:
-
-To contribute something to HealthConnect, please refer to our [contributing document](CONTRIBUTING.md)
+# Connect IoT
 
 ### Features:
 
