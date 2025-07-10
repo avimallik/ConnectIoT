@@ -32,7 +32,7 @@ The focus is on having a portable ICU, with which the medical help can be reache
 6. Click on Medical Devices on the sidebar, and follow the instructions to Add your Device.
 7. View RealTime health vitals of your your body on the Dashboard and Diagnostics.
 
-# HealthConnect Portal Interface (Patient):
+# Connect IoT Portal Interface (Patient):
 
 ## Dashboard View
 
